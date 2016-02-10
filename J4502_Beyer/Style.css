@@ -15,14 +15,52 @@ h1{
 }
 
 #main{
-  background-color: #fff
+  /*background-color: #CCFFFF;*/
+  background-color: #fff;
+  width:500px;
+  float: left;
 }
 #sidebar{
-  background-color:#ddd}
+  /*background-color:*/
+  background-color:#ddd
+  width: 200px;
+  float: right;
+}
 
 #footer{
-  background-color: red}
+  /*background-color:*/
+  background-color: #eded78;
+  color: red;
+  font-weight: bold;
+}
 
   #container{
+    /*background-color:*/
     background-color: #e37676;
+    width: 750px;
+    margin: 0 auto;
   }
+
+  #nav{
+    list-style-type: non;
+    margin:0;
+    padding:0;
+  }
+
+  #nav li{
+    float:left;
+  }
+  #nav a:link, #nav a:visited{
+    font-weight: bold;
+    color: #fff
+    background-color: #98bf21;
+    display:block;
+    width:125px;
+    text-align: center;
+    text-decoration:none;
+    padding:4px 0;
+  }
+
+#nav a:hover, #nav a:active{
+  background-color: #7a991a;
+}
