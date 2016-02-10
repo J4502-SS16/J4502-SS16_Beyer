@@ -1,0 +1,28 @@
+body{
+    font-family: Lucida, Helvetica, Arial, sans-serif;
+}
+
+.logo{
+  width:100px;
+  border-style: none;
+  float: left;
+  margin:0 5px 0 0;
+}
+
+h1{
+    font-size: 25px;
+    padding-top: 25px;
+}
+
+#main{
+  background-color: #fff
+}
+#sidebar{
+  background-color:#ddd}
+
+#footer{
+  background-color: red}
+
+  #container{
+    background-color: #e37676;
+  }
