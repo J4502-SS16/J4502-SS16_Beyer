@@ -20,6 +20,12 @@ h1{
     padding-top: 25px;
 }
 
+p{
+  font-style: italic;;
+  font-weight: bold;
+  text-align: center;
+}
+
 #main{
   /*background-color: #CCFFFF;*/
   background-color: #fff;
@@ -36,7 +42,7 @@ h1{
 #footer{
   /*background-color:*/
   background-color: #eded78;
-  color: red;
+  color: blue;
   font-weight: bold;
 }
 
