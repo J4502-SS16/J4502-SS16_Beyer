@@ -28,7 +28,7 @@ p{
 
 #main{
   /*background-color: #CCFFFF;*/
-  background-color: #fff;
+  background-color: #00FF00;
   width:500px;
   float: left;
 }
@@ -42,7 +42,7 @@ p{
 #footer{
   /*background-color:*/
   background-color: #eded78;
-  color: blue;
+  color: green;
   font-weight: bold;
 }
 
