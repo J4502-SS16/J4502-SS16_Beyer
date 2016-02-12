@@ -12,7 +12,7 @@ body{
 img {
   border-style: none;
   width:100px;
-  margen:5px;
+  margin:5px;
 }
 
 h1{
@@ -35,7 +35,7 @@ p{
 }
 #sidebar{
   /*background-color:*/
-  background-color:#ddd
+  background-color:#ddd;
   width: 200px;
   float: right;
 }
@@ -65,7 +65,7 @@ p{
   }
   #nav a:link, #nav a:visited{
     font-weight: bold;
-    color: #fff
+    color: #fff;
     background-color: #98bf21;
     display:block;
     width:125px;
