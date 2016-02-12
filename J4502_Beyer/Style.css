@@ -28,7 +28,7 @@ p{
 
 #main{
   /*background-color: #CCFFFF;*/
-  background-color: #00FF00;
+  background-color: #fff;
   width:500px;
   float: left;
 }
@@ -48,7 +48,7 @@ p{
 
   #container{
     /*background-color:*/
-    background-color: #e37676;
+    background-color: #00FF00;
     width: 750px;
     margin: 0 auto;
   }
